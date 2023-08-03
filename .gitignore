@@ -13,9 +13,6 @@ yarn.lock
 coverage
 
 # build
-/locale
-/plugin
-/esm
 
 #dev
 demo.js
